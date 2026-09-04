@@ -7,7 +7,7 @@ about:
   head: 0082583
   archived: false
   latestVersion: v0.8.1
-  collectedAt: 2026-09-04T19:27:15Z
+  collectedAt: 2026-09-04T21:03:26Z
 timeline:
   created: 2024-06-09
   lastCommit: 2026-05-09
@@ -80,5 +80,28 @@ total:
   openIssue: 6
   commit: 466
 ---
+path: /home/runner/.x-repo/github.com/gluesql/glues
+collectedAt: 2026-09-04T21:03:27Z
+loc:
+  Rust:
+    code: 12196
+    comments: 227
+    blanks: 1780
+    files: 130
+  Toml:
+    code: 182
+    comments: 175
+    blanks: 30
+    files: 7
+  Markdown:
+    code: 0
+    comments: 427
+    blanks: 149
+    files: 21
+total:
+  code: 12382
+  comments: 884
+  blanks: 1963
+  files: 158
 ---
 
