@@ -1,0 +1,121 @@
+- repo: aur
+  srcname: glues
+  binname: glues
+  visiblename: glues
+  version: 0.8.1
+  origversion: 0.8.1-1
+  status: newest
+  summary: Vim-inspired TUI note-taking app with Git, MongoDB support
+  maintainers:
+    - orhun@aur
+  licenses:
+    - Apache-2.0
+- repo: fedora_39
+  subrepo: release
+  srcname: glues
+  binnames:
+    - glues
+    - glues-devel
+    - glues-debuginfo
+    - glues-debugsource
+  visiblename: glues
+  version: "1.5"
+  origversion: 1.5-9.20200105git44cb7c6.fc39
+  status: ignored
+  summary: GLU port for OpenGL ES
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: release
+  srcname: glues
+  binnames:
+    - glues
+    - glues-devel
+    - glues-debuginfo
+    - glues-debugsource
+  visiblename: glues
+  version: "1.5"
+  origversion: 1.5-11.20200105git44cb7c6.fc40
+  status: ignored
+  summary: GLU port for OpenGL ES
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: release
+  srcname: glues
+  binnames:
+    - glues
+    - glues-devel
+  visiblename: glues
+  version: "1.5"
+  origversion: 1.5-12.20200105git44cb7c6.fc41
+  status: ignored
+  summary: GLU port for OpenGL ES
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: release
+  srcname: glues
+  binnames:
+    - glues
+    - glues-devel
+  visiblename: glues
+  version: "1.5"
+  origversion: 1.5-13.20200105git44cb7c6.fc42
+  status: ignored
+  summary: GLU port for OpenGL ES
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: glues
+  binnames:
+    - glues
+    - glues-devel
+  visiblename: glues
+  version: "1.5"
+  origversion: 1.5-14.20200105git44cb7c6.fc43
+  status: ignored
+  summary: GLU port for OpenGL ES
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: glues
+  binnames:
+    - glues
+    - glues-devel
+  visiblename: glues
+  version: "1.5"
+  origversion: 1.5-16.20200105git44cb7c6.fc44
+  status: ignored
+  summary: GLU port for OpenGL ES
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_rawhide
+  subrepo: development
+  srcname: glues
+  binnames:
+    - glues
+    - glues-devel
+  visiblename: glues
+  version: "1.5"
+  origversion: 1.5-17.20200105git44cb7c6.fc45
+  status: ignored
+  summary: GLU port for OpenGL ES
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
