@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.1"
   latestRelease: "v0.8.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:56:12Z
+  collectedAt: 2026-09-11T18:55:02Z
 timeline:
   created: 2024-06-09
   lastCommit: 2026-05-09
@@ -83,7 +83,7 @@ total:
   commit: 466
 ---
 path: /home/runner/.x-repo/github.com/gluesql/glues
-collectedAt: 2026-09-11T05:56:13Z
+collectedAt: 2026-09-11T18:55:07Z
 loc:
   Rust:
     code: 12196
