@@ -4,7 +4,7 @@
 
 Vim-inspired TUI note-taking app with multi-backend storage — privacy-focused
 
-![glues](https://repo.x-cmd.io/glues.svg)
+[![x-cmd/install — glues Code Quality Monitoring Repo Card](https://repo.x-cmd.io/glues.svg)](https://x-cmd.com/install/glues)
 
 ## Install
 
@@ -44,12 +44,12 @@ Total: **12,378** lines of code across **158** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 1 | 0 | 0 | 1 |
-| 360d | 2025-09-23 | 1 | 36 | 5 | 2 | 3 | 37 |
-| last720d | 2024-09-28 | 14 | 253 | 10 | 8 | 6 | 310 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 1 | 0 | 0 | 1 |
+| 360d | 2025-09-25 | 1 | 32 | 5 | 2 | 3 | 19 |
+| last720d | 2024-09-30 | 14 | 253 | 10 | 8 | 6 | 310 |
 
 ## Improve this data
 
@@ -60,4 +60,4 @@ Install metadata for glues lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:12:51Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:06:23Z._
